@@ -6,4 +6,7 @@ implementation of https://arxiv.org/abs/2003.11644 Using PyTorch for arxiv multi
 ------------|---------|-----------|-----------------|--------------|--------
 GloVe |	Arxiv	|128	|34688 / 17086	|0.73| 50
 
-for above 100 epochs you get results of 0.75
+for above 100 epochs you get results of 0.75.
+
+you can download the dataset from link below:
+['Download'](https://drive.google.com/file/d/1QlFyrUpAKH2cmhV8456CxPITHNlNqFG8/view)
